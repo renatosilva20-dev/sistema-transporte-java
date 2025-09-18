@@ -39,7 +39,7 @@ Trabalho A3/
 ## ▶️ Como executar
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/sistema-transporte-java.git
+   git clone https://github.com/renatosilva20-dev/sistema-transporte-java.git
    cd sistema-transporte-java/Trabalho\ A3
    ```
 2. Compile e execute com Maven:

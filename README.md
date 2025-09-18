@@ -25,15 +25,14 @@ Ele implementa um **sistema de transporte** com interface gráfica em **Swing**,
 Trabalho A3/
  ├── src/
  │   ├── main/java/
- │   │   ├── dao/         # Acesso a dados (Rota, Usuario, Veiculo)
- │   │   ├── database/    # Conexão com SQLite
- │   │   ├── model/       # Entidades: Usuario, Aluno, Motorista, Gestor, Rota, Veiculo
- │   │   ├── ui/          # Telas Swing (Login, Cadastro, Relatórios)
- │   │   └── org/example/ # Main.java
- │   └── main/resources/  # Recursos do sistema
- ├── database.db          # Banco de dados SQLite
- ├── pom.xml              # Configurações Maven
- └── .gitignore
+ │   │   ├── dao/        
+ │   │   ├── database/    
+ │   │   ├── model/       
+ │   │   ├── ui/          
+ │   │   └── org/example/ 
+ │   └── main/resources/ 
+ ├── database.db          
+ ├── pom.xml              
 ```
 
 ## ▶️ Como executar
